@@ -1,0 +1,14 @@
+body{
+    background: url(./images/photo-15.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: beige;
+}
+
+.nav {
+    text-align: center;
+    justify-content: center;
+}
